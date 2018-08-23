@@ -1,2 +1,2 @@
 # PIDLE2
-Including easier stuff and more features, ths is PIDLE 2
+Including easier stuff and more features, this is PIDLE 2
